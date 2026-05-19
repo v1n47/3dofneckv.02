@@ -11,12 +11,11 @@ Pitch: Nodding the head up-and-down.
 
 ## 📸 Preview
 
-
-![My Project photo1](./images/photo1.jpeg)
-![My Project photo2](./images/photo2.jpeg)
-![My Project circuit](./images/circuit.jpeg)
-![My Project craft1](./images/craft1.jpeg)
-![My Project craft2](./images/craft2.jpeg)
+<img src="./images/photo1.jpeg" width="50%" alt="3DOF Neck Mechanism1">
+<img src="./images/photo2.jpeg" width="50%" alt="3DOF Neck Mechanism2">
+<img src="./images/circuit.jpeg" width="50%" alt="3DOF Neck Mechanism3">
+<img src="./images/craft1.jpeg" width="50%" alt="3DOF Neck Mechanism4">
+<img src="./images/craft2.jpeg" width="50%" alt="3DOF Neck Mechanism5">
 
 ## ✨ Features
 
