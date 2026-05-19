@@ -11,7 +11,12 @@ Pitch: Nodding the head up-and-down.
 
 ## 📸 Preview
 
-![My Project Screenshot](./images/screenshot.png)
+
+![My Project photo1](./images/photo1.jpeg)
+![My Project photo2](./images/photo2.jpeg)
+![My Project circuit](./images/circuit.jpeg)
+![My Project craft1](./images/craft1.jpeg)
+![My Project craft2](./images/craft2.jpeg)
 
 ## ✨ Features
 
